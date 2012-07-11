@@ -316,7 +316,7 @@ body.deck-container {
 		margin:0 auto;
 	}
 
-	p, blockquote, iframe, img, ul, ol, pre, video {
+	p, blockquote, iframe, img, > ul, > ol, pre, video {
 		margin-bottom:1em;
 	}
 
